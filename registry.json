@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "totalComponents": 114,
+  "totalComponents": 115,
   "categories": [
     "ai",
     "atoms",
@@ -893,6 +893,18 @@
       "folders": [],
       "files": [
         "config.ts",
+        "index.tsx",
+        "types.ts"
+      ]
+    },
+    "radiant-button": {
+      "name": "radiant-button",
+      "category": "base",
+      "path": "src/components/base/radiant-button",
+      "folders": [],
+      "files": [
+        "conf.ts",
+        "helpers.ts",
         "index.tsx",
         "types.ts"
       ]
